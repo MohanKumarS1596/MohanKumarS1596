@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MohanKumarS1596
 - 👀 I’m UX/UI Designer
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Design Projects
 - 📫 How to reach me mohankumaroffl@gmail.com
 
